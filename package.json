@@ -1,0 +1,16 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vecnatechnologies/sandbox"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
